@@ -1,0 +1,2 @@
+# Python_lesson_simple
+一些自学的简单Python内容
